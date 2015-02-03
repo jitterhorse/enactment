@@ -5,8 +5,18 @@ Ein vertrautes Konzept drängt sich vor die Rohwahrnehmung.
 Beispiel: Geübte Leser sehen bei einem bekannten Wort nicht die einzelnen Buchstaben und bilden ihre einzelnen Laute nach, sondern /nehmen das Wort sofort als Ganzes wahr/.
 Sehreiz, Lesetätigkeit, Klang und Wortbedeutung bilden ein Konzept, das direkt und ungefragt abgerufen wird.
 
+///zitat
+"Um zu begreifen, was dieser industrielle Zugriff bedeutet, der in den Augen Stieglers eine mental kranke, infantilisierte Gesellschaft produziert, die an einer allgemeinen Störung der Aufmerksamkeit leidet und zu struktureller Verantwortungslosigkeit tendiert,12 müsse man sich Husserls Theorie der Zeitobjekte vor Augen führen. 
+Dort hatte Husserl die aufbewahrte Vergangenheit im Hier und Jetzt analysiert und dieses Zurückbehalten oder Speichern des z. B. vorausgegangenen Tons in der gegenwärtigen Wahrnehmung als «primäre Retention» bestimmt. Von dieser unterschied er die «sekundäre Retention», die der Vergangenheit angehört, also Erinnerung oder Fantasie ist. 
+Während Husserl diese beiden Retentionen radikal trennte, stehen sie bei Stiegler nicht nur in Kombination miteinander, sondern werden darüber hinaus durch die «tertiäre Retention» ergänzt, die den Umstand benennt, dass durch die technische Speicherung etwas jederzeit abrufbar ist, doch jede Wiederholung unterschiedliche Wirkungen hervorruft. Diese Möglichkeit sei heute, so Stiegler, in eine neue Epoche getreten, die auch das Ende des Okzidents bedeuten könnte. Tertiäre Retentionen sind orthothetisch, phonogrammatisch, kinematografisch oder alphabetisch – auf jeden Fall sind es Objekte, technische Objekte, die – und hier nun kommt die Frage des Okzidents ins Spiel – die Epoche der Geschichte, des Rechts, der Philosophie und der Wissenschaft einleiten.
+///link: http://e-text.diaphanes.net/doi/10.44....2011.0032 
+
 Sind erfahrbare Wahrnehmung, Bewusstsein, Identität und bewusstes Denken Nebenprodukte oder Entwicklungen aus Wahrnehmungskonzepten?
 Wenn letztere abhängig sind von Umwelt, Zeit, Disposition etc., müssen erstere als Produkt letzterer das auch sein.
+
+///anmerkung
+dies ist die reihe an abhänigkeiten die im bewusstsein der meisten menschen nicht vorhanden ist. dies würde es gelten aufzuzeigen und in kleinen vorgängen, riten und experimenten zu kennzeichnen
+///
 
 "To have a concept is to be able to make judgments. Judgments are made for /reasons/, and they aim at the /truth/. To understand truth, you must grasp (however implicitly) the /laws of truth/ (ie logic), and you must grasp the distinction between how things really are and how they merely seem to be." (182)
 "Mere /sensorimotor/ stimulation /becomes/ experience with world-presenting content /thanks to/ the perceiver's posession of sensorimotor skills." (183)
@@ -14,8 +24,15 @@ Wenn letztere abhängig sind von Umwelt, Zeit, Disposition etc., müssen erstere
 Das Prinzip der Konzeptualisierung zur Effizienssteigerung mag viel tiefer in unsere verschiedensten Lebensaspekte eingreifen, als zunächst gedacht.
 So ist etwa auch die Einteilung von Entitäten in Subjekte mit wechselnden Prädikaten womöglich bloß eine Konzeptualisierung von Entitäten in wiedererkennbare Muster, die zwar eine Handhabung von Informationen in unserem Alltag vereinfachen, aber weit davon weg sind, die Realität zu beschreiben.
 So eine Einteilung mag seine Berechtigung im Alltag haben, aber für die Analyse verschiedenster Entitäten sollte dann davon Abstand genommen werden.
+/// 
+Auch die Einteilung im Alltag ist meineserachtens oft fragwürdig und bestätigt die industrielle Ideologie.
+///
 Wahrscheinlich am deutlichsten wird die Einteilung von Entitäten in Subjekte mit wechselnden Prädikaten in (westlichen) Sprachen (Syntax) und im (westlichen) Identitätsverständnis (über die gesamte Lebenszeit [und womöglich noch darüber hinaus] eine Person zu bleiben, die im Verlauf der Zeit verschiedene Dinge tun kann und sich wandeln kann, aber doch eine "Ich"-Identität behält).
 Whitehead (Prozess und Realität, 1987) und scheinbar auch Thompson [1] kommen in ihren Analysen jedoch zu der Idee, dass die Welt ausschließlich aus Prozessen besteht, bei denen (vorstellbar wie eine Funktion in linearer Algebra, die abhängig vom betrachteten Punkt auf einer Achse verschiedene Werte aufweist) das was sie sind und "was sie tun" nicht voneinander unterscheidbar ist.
-So wären (soll überhaupt daran festgehalten werden, einzelne Menschen als abgegrenzte Entität zu verstehen) Menschen eben auch "bloß" das, was die Gesamtheit ihres Tuns ausmacht - woraus sie gerade materiell bestehen, ihre Körperfunktionen und jede Handlung eben mit eingenommen.
+So wären (soll überhaupt daran festgehalten werden, einzelne Menschen als abgegrenzte Entität zu verstehen) 
+///
+vielleicht gibt es Entitätenarten welche durch nebeneinander- und überlagerung bereiche geben in denen ein Mensch denkbar ist um den Umgang mit ihm zu vereinfachen. Dieses Denkbar setzt jedoch die fehlbarkeit vorraus.
+///
+Menschen eben auch "bloß" das, was die Gesamtheit ihres Tuns ausmacht - woraus sie gerade materiell bestehen, ihre Körperfunktionen und jede Handlung eben mit eingenommen.
 Eine solche Betrachtungsweise beendet die ungelöste Problematik, eine gleichbleibende Identität von sich ständig ändernden Handlungen, sich ändernden Ansichten und sich änderndem introspektiven Selbstverständnis abzugrenzen und eröffnet eine rationalere Beschreibung von Entitäten, die nicht davon abhängig ist, dass diese Beschreibung starr sein muss. (Siehe auch Sartres Begriffe von Wahrheit - in metaphysischer Beschreibung - und vom Menschen - in der existentialistischen - in "Das Sein und das Nichts".)
 [1] "Now, Thompson's book has a much broader focus than this. He advances a specific philosophical claim — that the self is a process, not a thing or an entity — and he examines and develops this claim in the light cast not only by contemporary cognitive science but also traditional Indian philosophy and contemplative practices that are descendent from those philosophical traditions (but are not identical to them)." - http://www.npr.org/blogs/13.7/2014/12/30/373952810/in-search-of-a-science-of-consciousness - Noë
